@@ -1,0 +1,10 @@
+number,number_normalized,kind,phoneable_type,phoneable_reference
+0101010101,+33101010101,mobile,service_provider,SP001
+0202020202,+33202020202,office,service_provider,SP002
+0303030303,+33303030303,mobile,service_provider,SPMC001
+0404040404,+33404040404,office,manager,M001
+0505050505,+33505050505,office,manager,M002
+0606060606,+33606060606,home,part_resident,PR001
+0707070707,+33707070707,mobile,part_resident,PR002
+0808080808,+33808080808,home,part_resident,PR003
+0909090909,+33909090909,mobile,caretaker,CT001
