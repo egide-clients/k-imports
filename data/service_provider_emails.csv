@@ -1,5 +1,5 @@
-email,service_provider_reference,favorite
-plomberie2000@kolimmo.com,SP001,1
-dutoiscouvreur@kolimmo.com,SP002,1
-d.couvreur@kolimmo.com,SP002,
-electricien@kolimmo.com,SPMC001,1
+reference,email,service_provider_reference,favorite
+SPESP001,plomberie2000@kolimmo.com,SP001,1
+SPE01SP002,dutoiscouvreur@kolimmo.com,SP002,1
+SPE02SP002,d.couvreur@kolimmo.com,SP002,
+SPESPMC001,electricien@kolimmo.com,SPMC001,1
