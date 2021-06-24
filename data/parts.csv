@@ -1,6 +1,6 @@
 reference,site_reference,building_reference,part_type_reference,floor,manager_reference,designation
 P001,S001,B001,PT003,-1,M001,Place de parking
-P001,S001,B001,PT001,1,M001,Appartement
-P001,S001,B001,PT001,RDC,M001,Appartement
-P001,S001,B001,PT001,4,M001,Appartement
-P001,S002,B002,PT004,-1,M001,Cave
+P002,S001,B001,PT001,1,M001,Appartement
+P003,S001,B001,PT001,RDC,M001,Appartement
+P004,S001,B001,PT001,4,M001,Appartement
+P005,S002,B002,PT004,-1,M001,Cave
