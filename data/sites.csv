@@ -1,3 +1,3 @@
-reference,agency_reference,name,description,management_mode,digicode1,digicode2,exit_date,access,manager_reference
-S001,A001,Immeuble des 3 flots,,rental_management,0123,4567,,sonner gardien,M001
-S002,A001,Immeuble des 2 ponts,,rental_management,,,,sonner gardien,M001
+reference,agency_reference,name,description,management_mode,digicode1,digicode2,exit_date,access
+S001,A001,Immeuble des 3 flots,,rental_management,0123,4567,,sonner gardien
+S002,A001,Immeuble des 2 ponts,,rental_management,,,,sonner gardien

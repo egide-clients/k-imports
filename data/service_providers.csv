@@ -1,4 +1,4 @@
-reference,service_provider_profession_reference,name,description,profession,email,email2
-SP001,SPP001,Plomberie 2000,,Plombier,plomberie2000@kolimmo.com,
-SP002,SPP002,Couvreur Dutois,,Couvreur,dutoiscouvreur@kolimmo.com,d.couvreur@kolimmo.com
-SPMC001,,Electrité Concept,,Electricien,electricien@kolimmo.com,
+reference,service_provider_profession_reference,name,description,profession,contact_name
+SP001,SPP001,Plomberie 2000,,Plombier,
+SP002,SPP002,Couvreur Dutois,,Couvreur,
+SPMC001,,Electrité Concept,,Electricien,
