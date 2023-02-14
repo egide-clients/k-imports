@@ -1,3 +1,3 @@
-reference,assignable_reference,assignable_type,manager_reference,role
-A01S001,S001,site,M001,manager
-A02S001,S001,site,M002,accountant
+reference,assignable_reference,assignable_type,manager_reference,role,notifications
+A01S001,S001,site,M001,manager,false
+A02S001,S001,site,M002,accountant,true
