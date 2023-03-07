@@ -1,6 +1,6 @@
-reference,site_reference,part_reference,part_resident_reference,entrance_date,exit_date,contract_type
-PC001,S001,P001,PR001,21/03/2017,,tenant
-PC002,S001,P002,PR002,,,landlord
-PC003,S001,P003,PR003,21/03/2019,,tenant
-PC004,S001,P004,PR004,,,landlord
-PC005,S001,P005,PR005,21/03/2007,20/03/2012,tenant
+reference,part_reference,part_resident_reference,entrance_date,exit_date,contract_type
+PC001,P001,PR001,21/03/2017,,tenant
+PC002,P002,PR002,,,landlord
+PC003,P003,PR003,21/03/2019,,tenant
+PC004,P004,PR004,,,landlord
+PC005,P005,PR005,21/03/2007,20/03/2012,tenant

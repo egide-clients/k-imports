@@ -1,0 +1,14 @@
+reference,email,favorite,firstname,lastname,resource_type,resource_reference
+CESP001,plomberie2000@kolimmo.com,1,,,service_provider,SP001
+CESP002-01,dutoiscouvreur@kolimmo.com,1,,,service_provider,SP002
+CESP002-02,d.couvreur@kolimmo.com,,,,service_provider,SP002
+CESPMC001,electricien@kolimmo.com,1,,,service_provider,SPMC001
+CEM001,claude.bicot@kolimmo.com,1,,,manager,M001
+CEM002,diane.dupont@kolimmo.com,1,,,manager,M002
+CEPR001,resident@kolimmo.com,1,,,part_resident,PR001
+CEPR002,resident@kolimmo.com,1,,,part_resident,PR002
+CEPR003,resident@kolimmo.com,1,,,part_resident,PR003
+CEPR004,resident@kolimmo.com,1,,,part_resident,PR004
+CEPR005,resident@kolimmo.com,1,,,part_resident,PR005
+CECT001,m.michot@kolimmo.com,1,,,caretaker,CT001
+CECT002,dubreuiljean@kolimmo.com,1,,,caretaker,CT002

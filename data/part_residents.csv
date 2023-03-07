@@ -1,6 +1,7 @@
-reference,agency_reference,email,email2,firstname,lastname,civility_reference,entrance_date,exit_date
-PR001,A001,resident@kolimmo.com,,Aurélien,Auffray,C001,21/03/2017,28/08/2018
-PR002,A001,resident@kolimmo.com,,Philippe,Gouet,C001,21/03/2015,
-PR003,A001,resident@kolimmo.com,,Christine,Gauthier,C002,21/03/2016,
-PR004,A001,resident@kolimmo.com,,Marine,Jonché,C002,21/03/2017,
-PR005,A001,resident@kolimmo.com,,Claire et José,Dupont,C005,21/03/2018,
+reference,agency_reference,civility_reference,role,firstname,lastname,parent_reference,entrance_date,exit_date
+PR001,A001,,,Aurélien,Auffray,,21/03/2017,28/08/2018
+PR002,A001,,,Philippe,Gouet,,21/03/2015,
+PR002B,A001,,,Marie,Gouet,PR002,21/03/2015,
+PR003,A001,,,Christine,Gauthier,,21/03/2016,
+PR004,A001,,,Marine,Jonché,,21/03/2017,
+PR005,A001,,,Claire et José,Dupont,,21/03/2018,

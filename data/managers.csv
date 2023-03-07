@@ -1,3 +1,3 @@
-reference,agency_reference,email,role,firstname,lastname,civility_reference
-M001,A001,claude.bicot@kolimmo.com,admin,Claude,bicot,C001
-M002,A001,diane.dupont@kolimmo.com,manager,Diane,Dupont,C002
+reference,agency_reference,role,firstname,lastname,civility_reference
+M001,A001,admin,Claude,bicot,C001
+M002,A001,manager,Diane,Dupont,C002
